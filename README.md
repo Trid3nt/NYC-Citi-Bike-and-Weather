@@ -1,2 +1,2 @@
 # NYC-Citi-Bike-and-Weather
-My first data science side project, predicting NYC Citi Bike usage based on NYC weather.
+My first data science side project, studying the extent to which weather affects Citi Bike usage in NYC.
